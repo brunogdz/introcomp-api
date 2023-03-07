@@ -43,5 +43,50 @@ Link para conseguir fazer o acesso
 
 [Cidades - ES](http://educacao.dadosabertosbr.com/api/cidades/es)
 
+## Conferir os dados com o portal da educacao
+
+### Sudeste
+[ES](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=es)
+
+[RJ](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=rj)
+
+[MG](educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=mg)
+
+[SP](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=sp)
+
+### Sul
+[PR](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=pr)
+
+[RS](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=rs)
+
+[SC](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=sc)
+
+### Centro-Oeste
+[DF]()
+
+[GO]()
+
+[MT]()
+
+[MS]()
+
+### Nordeste
+[AL]()
+
+[BA]()
+
+[CE]()
+
+[MA]()
+
+[PB]()
+
+[PE]()
+
+[PI]()
+
+[RN]()
+
+[SE]()
 
 
