@@ -114,5 +114,7 @@ export default function handler(req, res) {
     case "mt":
       res.status(200).json({ name: dataMT });
       break;
+    default:
+      res.status(400).json({ name: 'Houve um erro, tente digitar a sigla do estado. Ex: es, rj, mg' });
   }
 }

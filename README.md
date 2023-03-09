@@ -107,6 +107,8 @@ Link para conseguir fazer o acesso
 
 ## Para os municipios do Espirito Santo pode ser utilizado por cidade
 
+http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=es&cidade=3205010
+
 
 
 
