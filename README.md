@@ -62,31 +62,51 @@ Link para conseguir fazer o acesso
 [SC](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=sc)
 
 ### Centro-Oeste
-[DF]()
+[DF](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=df)
 
-[GO]()
+[GO](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=go)
 
-[MT]()
+[MT](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=mt)
 
-[MS]()
+[MS](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=ms)
 
 ### Nordeste
-[AL]()
+[AL](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=al)
 
-[BA]()
+[BA](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=ba)
 
-[CE]()
+[CE](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=ce)
 
-[MA]()
+[MA](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=ma)
 
-[PB]()
+[PB](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=pb)
 
-[PE]()
+[PE](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=pe)
 
-[PI]()
+[PI](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=pi)
 
-[RN]()
+[RN](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=rn)
 
-[SE]()
+[SE](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=se)
+
+### NORTE
+
+[AM](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=am)
+
+[RR](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=rr)
+
+[AP](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=ap)
+
+[PA](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=pa)
+
+[TO](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=to)
+
+[RO](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=ro)
+
+[AC](http://educacao.dadosabertosbr.com/api/escolas/buscaavancada?situacaoFuncionamento=1&tipoLocalizacao=1&regulamentada=1&dependenciaAdministrativa=2&estado=ac)
+
+## Para os municipios do Espirito Santo pode ser utilizado por cidade
+
+
 
 
